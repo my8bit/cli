@@ -1,0 +1,7 @@
+{
+    "body": "<p>Open last.fm in new tab...</p><p><a href='http://www.lastfm.ru/user/LINKINraIN'>http://www.lastfm.ru/user/LINKINraIN</a></p>",
+    "goLink": {
+        "url": "http://www.lastfm.ru/user/LINKINraIN",
+        "windowType": "_blank"
+    }
+}
